@@ -1,6 +1,5 @@
 node {
     stage('TEST') {
         echo 'Jenkins TEST!!!!!!!!!!!!!!!'
-        }
     }
 }
